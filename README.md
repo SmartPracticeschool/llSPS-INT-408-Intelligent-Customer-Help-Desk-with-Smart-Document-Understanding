@@ -7,4 +7,4 @@ application available on IBM cloud as well.The project shall use the Smart Docum
 
 User manual used in this project is already uploaded named ecobee3_userguide.
 
-Access to Node-Red App using this link:-
+Access to Node-Red App using this link:-https://node-red-eqpwy.eu-gb.mybluemix.net/ui
